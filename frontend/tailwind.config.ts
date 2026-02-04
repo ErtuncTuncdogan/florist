@@ -12,7 +12,7 @@ const config: Config = {
         sans: ['var(--font-montserrat)'],
       },
       colors: {
-        primary: "#F72585", // The pink from your design
+        primary: "#F72585", 
       }
     },
   },
